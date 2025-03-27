@@ -38,7 +38,7 @@
    * [Research](https://github.com/SupNek/cmc_msu_ml_course/tree/main/hw_9_ensembles)
    * [Research, unittests](https://github.com/SupNek/cmc_msu_ml_course/tree/main/hw_9_ensembles/unittests)
 10. Случайный лес и отбор признаков
-   * [Base](https://github.com/SupNek/cmc_msu_ml_course/tree/main/hw_10_random_forest_and_feature_selection)
+    * [Base](https://github.com/SupNek/cmc_msu_ml_course/tree/main/hw_10_random_forest_and_feature_selection)
 
 
 
