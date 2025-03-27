@@ -41,6 +41,7 @@
    * [Base](https://github.com/SupNek/cmc_msu_ml_course/tree/main/hw_10_random_forest_and_feature_selection)
 
 
+
 ## Материалы лекций 3-го потока 
 #### Лекции читает  к.ф.-м.н. Петровский Михаил Игоревич
 
